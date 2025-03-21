@@ -1,0 +1,9 @@
+/* estilização válida para todo o corpo do site */
+body {
+    /* fonte que será rederizada */
+    font-family: Arial, Helvetica, sans-serif;
+    /* cor do plano de fundo do site */
+    background-color: #f4f4f4;
+    /* alinhamento do texto do site */
+    text-align: center;
+}
